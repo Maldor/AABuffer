@@ -1,0 +1,17 @@
+{
+  "author": "Maldor96", 
+  "build": "72996", 
+  "category": [
+    "in-game", 
+    "server-mod"
+  ], 
+  "context": "server", 
+  "date": "2014/09/29", 
+  "description": "Buffs the AA vehicle, to make more effective", 
+  "display_name": "AA Buff", 
+  "enabled": true, 
+  "identifier": "com.Maldor96.Vehicles.AABuff", 
+  "priority": 100, 
+  "forum": "https://forums.uberent.com/threads/wip-maldors-mini-mods.64495/",
+  "version": "1.0"
+}
